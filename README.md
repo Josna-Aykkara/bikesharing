@@ -51,4 +51,4 @@ Two additional visualizations are suggested for future analysis would be:
 
 -**Traffic blockage:** Another factor to be considered is the frequency of traffic congestions along with the locations and time frames. It would be valuable because then the business could plan on providing more bikes during rush hour and determine the stops based on the locations. Its more comfortable to ride a bike than wait in traffic for longer period. 
 
--**Larger Time Frame:** We should also consider the nature of business on a wider range. We can do it by collecting data for over 12 months time to derive at a correct conclusion. The results would enlighten us regarding the number of users for each month.
+-**Larger Time Frame:** We should also consider the nature of business on a wider range. We can do it by collecting data for over 12 months time to derive at a correct conclusion. The results would enlighten us regarding the number of users for each month. In addition to that we can schedule bike repairs during the off-peak season or demand and make more bikes available during the busy season. 

@@ -4,7 +4,7 @@
 
 The purpose of the analysis is to provide insights about the scope of the business to the investors and to ensure the feasibility of the bike sharing business proposal in Des Monies. Visualization of the analysis of the data using Tableau would be beneficial for the business, as we would be able to understand the factors that impact the business and check the volatility against the various variable factors and to make a sound decision.
 
-[link to dashboard](LINK GOES HERE)
+[link to dashboard](https://public.tableau.com/app/profile/josna5182/viz/Challenge15_16702794959990/Story1?publish=yes)
 
 ## Results
 

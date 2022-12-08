@@ -4,6 +4,7 @@
 
 The purpose of the analysis is to provide insights about the scope of the business to the investors and to ensure the feasibility of the bike sharing business proposal in Des Monies. Visualization of the analysis of the data using Tableau would be beneficial for the business, as we would be able to understand the factors that impact the business and check the volatility against the various variable factors and to make a sound decision.
 
+[link to dashboard](LINK GOES HERE)
 
 ## Results
 
@@ -29,7 +30,8 @@ The purpose of the analysis is to provide insights about the scope of the busine
 ![This is an image]( https://github.com/Josna-Aykkara/bikesharing/blob/main/Images/User%20Trips%20by%20Gender%20by%20Weekday.JPG)
 
 - **August Peak hrs-** The horizontal bar diagram provides easy vizualization to the key busy/peak hours when teh bikes are used the most, like the evening between 5pm-6pm.
-![This is an image]()
+
+![This is an image](https://github.com/Josna-Aykkara/bikesharing/blob/main/Images/August%20Peak%20hrs.JPG)
 
 - **Bike Utilization-**
 
